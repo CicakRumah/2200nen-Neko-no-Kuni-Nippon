@@ -1,5 +1,5 @@
 # 2200nen-Neko-no-Kuni-Nippon
-Public archive of fansub work done by TokekHutan for "2200-nen Neko no Kuni Nippon"
+Public archive of fansub work done by CicakRumah for "2200-nen Neko no Kuni Nippon"
 
 ## Terms of Usage
 Please head to [geckyzz.my.id/terms](https://geckyzz.my.id/terms) for detailed information.
