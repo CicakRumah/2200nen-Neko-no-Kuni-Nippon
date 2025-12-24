@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>18367500702644363453</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Prolog</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>5570475380530174624</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:07.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Pembuka</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>11745681067815532070</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:10.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Episode</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Episode</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>6926574187257108834</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:05.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ending: "琥珀色のロンリネス" by マツヤマイカ</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Penutup: "琥珀色のロンリネス" oleh マツヤマイカ</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>16090945140966946926</ChapterUID>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
